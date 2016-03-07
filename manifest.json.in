@@ -1,0 +1,17 @@
+{
+    "name": "thumbnailer.liu-xiao-guo",
+    "description": "description of thumbnailer",
+    "architecture": "@CLICK_ARCH@",
+    "title": "thumbnailer",
+    "hooks": {
+        "thumbnailer": {
+            "apparmor": "thumbnailer/thumbnailer.apparmor",
+            "desktop":  "thumbnailer/thumbnailer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

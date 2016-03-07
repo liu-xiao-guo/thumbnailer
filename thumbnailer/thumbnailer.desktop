@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=thumbnailer
+Exec=thumbnailer
+Icon=thumbnailer/thumbnailer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
